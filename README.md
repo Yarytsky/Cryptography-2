@@ -6,20 +6,20 @@
 
 Скрипт який виконує завдання: `tasks.py`
 
-- [x] `BasePointGGet`
-- [x] `ECPointGen` - виконується при ініціалізації класу
-- [x] `IsOnCurveCheck`
-- [x] `AddECPoints`
-- [x] `DoubleECPoints`
-- [x] `ScalarMult`
-- [x] `ECPointToString`
-- [x] `PrintECPoint`
+-  `BasePointGGet`
+-  `ECPointGen` - виконується при ініціалізації класу
+-  `IsOnCurveCheck`
+-  `AddECPoints`
+-  `DoubleECPoints`
+-  `ScalarMult`
+-  `ECPointToString`
+-  `PrintECPoint`
 
 Додатково реалізовані методи та класи:
 
-- [x] `ECurve` - додатковий клас для збереження рівняння еліптичної кривої
-- [x] `ValidateECurve`
-- [x] `EquationToString`
+-  `ECurve` - додатковий клас для збереження рівняння еліптичної кривої
+-  `ValidateECurve`
+-  `EquationToString`
 
 
 
